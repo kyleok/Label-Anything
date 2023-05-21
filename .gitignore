@@ -1,0 +1,15 @@
+# Ignore JSON files
+*.json
+
+# Ignore JPG files
+*.jpg
+
+# Ignore PNG files
+*.png
+
+# Ignore PTH files
+*.pth
+
+# Ignore the "/old" directory
+/old/
+
